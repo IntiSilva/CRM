@@ -1,0 +1,44 @@
+{
+  "clients": [
+    {
+      "name": "Juan (Updated)",
+      "company": "Microsoft Corp",
+      "email": "juan@juan.com",
+      "telephone": "102013313",
+      "notes": "New Note",
+      "id": 1
+    },
+    {
+      "name": "Karen",
+      "company": "Oracle Corp",
+      "email": "karen@karen.com",
+      "telephone": "138198313",
+      "notes": "Karen wants a REST API",
+      "id": 2
+    },
+    {
+      "name": "Michael",
+      "company": "Adobe Inc. ",
+      "email": "michael@michael.com",
+      "telephone": "319381983",
+      "notes": "Michael wants a UI design",
+      "id": 4
+    },
+    {
+      "name": "Peter",
+      "company": "Block Inc. ",
+      "email": "peter@peter.com",
+      "telephone": "1398198938",
+      "notes": "Note",
+      "id": 5
+    },
+    {
+      "name": "Inti",
+      "company": "Apple",
+      "email": "inti@inti.com",
+      "telephone": "10901",
+      "notes": "Client wants an e-commerce",
+      "id": 6
+    }
+  ]
+}
